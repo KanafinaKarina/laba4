@@ -1,4 +1,4 @@
-﻿﻿#include <iostream>
+#include <iostream>
 #include <vector>
 
 template <typename T>
@@ -61,4 +61,3 @@ int main() {
 
     return 0;
 }
-
